@@ -24,7 +24,7 @@ namespace Convex_Hull_Examples.Algorithms
             }
 
             int index = 0;
-            Node beginingNode = lines[0].GetFirstEndpoint();
+            Node beginningNode = lines[0].GetFirstEndpoint();
             List<Line> linesAtStep = new List<Line>();
 
             for (int i = 0; i < step; i++)
@@ -37,13 +37,13 @@ namespace Convex_Hull_Examples.Algorithms
                 }
                 else if (linesAtStep[index].GetColor() == Color.Red)
                 {
-                    if (linesAtStep[index].GetFirstEndpoint() != beginingNode && 
-                        linesAtStep[index].GetSecondEndpoint() != beginingNode)
+                    if (linesAtStep[index].GetFirstEndpoint() != beginningNode && 
+                        linesAtStep[index].GetSecondEndpoint() != beginningNode)
                     {
-                        beginingNode = linesAtStep[index].GetFirstEndpoint();
+                        beginningNode = linesAtStep[index].GetFirstEndpoint();
                         linesAtStep.RemoveAll(a => a.GetColor() == Color.Red && 
-                                                   a.GetFirstEndpoint() != beginingNode &&
-                                                   a.GetSecondEndpoint() != beginingNode);
+                                                   a.GetFirstEndpoint() != beginningNode &&
+                                                   a.GetSecondEndpoint() != beginningNode);
 
                         index = linesAtStep.Count - 1;
                     }
