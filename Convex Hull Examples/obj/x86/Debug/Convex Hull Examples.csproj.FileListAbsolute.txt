@@ -1,0 +1,27 @@
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\bin\Debug\Convex Hull Examples.exe
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\bin\Debug\Convex Hull Examples.pdb
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex_Hull_Examples.ExampleWindow.resources
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex_Hull_Examples.Properties.Resources.resources
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex Hull Examples.exe
+c:\users\chaiber\documents\visual studio 2010\Projects\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex Hull Examples.pdb
+E:\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex Hull Examples.exe
+E:\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex Hull Examples.pdb
+E:\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex_Hull_Examples.ExampleWindow.resources
+E:\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex_Hull_Examples.Properties.Resources.resources
+E:\Convex Hull Examples\Convex Hull Examples\bin\Debug\Convex Hull Examples.exe
+E:\Convex Hull Examples\Convex Hull Examples\bin\Debug\Convex Hull Examples.pdb
+E:\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex Hull Examples.exe
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex Hull Examples.pdb
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\bin\Debug\Convex Hull Examples.exe
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\bin\Debug\Convex Hull Examples.pdb
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex_Hull_Examples.ExampleWindow.resources
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\Convex_Hull_Examples.Properties.Resources.resources
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Chaiber\Desktop\Convex Hull Examples\Convex Hull Examples\obj\x86\Debug\GenerateResource.write.1.tlog

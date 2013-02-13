@@ -1,0 +1,32 @@
+Convex Hull Example
+Charles Haiber
+
+This project is created to exhibit two apporaches to finding the
+convex hull of a set of nodes. The conxex hull is the minimum 
+set of nodes that completely encases all other nodes in the set.
+The two algorithms were selected to show what a huge difference
+there is between an efficient and inefficient algorithm:
+
+Brute Force:
+	Runtime: O(n^3)
+	Method: Compare every pair of nodes. Check if other nodes
+		all fall to either the left or right side of the line
+		formed by the initial pair of nodes. If all nodes fall
+		to one side, then the line between the two nodes is part
+		of the convex hull. Otherwise, repeat with a new pair.
+
+Graham Scan:
+	Runtime: O(n*lg(n))
+	Method: Choose a base node by selecting the lowest left-most
+		node. Sort all other nodes by angle relative to the base
+		node. Starting at the first sorted node, draw a line 
+		from the base node. Continue through the list, checking
+		if the three mode recently added nodes forms a left turn
+		or right turn. If a right turn is found, remove the 
+		second to last node and recheck. Otherwise, continue until
+		the final sorted node is added to the line.
+	
+The project can generate between 3 and 175 nodes, and can draw each
+step of both algorithms one at a time. Green lines are part of the
+convex hull, and red lines are attempted lines that are found not to
+be part of the hull.
